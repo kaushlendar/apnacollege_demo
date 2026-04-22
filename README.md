@@ -1,3 +1,3 @@
 # apnacollege_demo
-This is my first Reposit0ry
+This is my first Repository
 Thise is my name kaushlendar
